@@ -40,4 +40,4 @@ Our vision is to emerge as a leader in the cloud technology space, offering unpa
 
 At **ParseSphere Innovations**, we believe in the power of collaboration and innovation. Whether you need state-of-the-art web solutions, advanced digital marketing strategies, or reliable cybersecurity measures, we're here to help you achieve your goals.
 
-: <a href=mailto:parsesphereinnovations@gmail.com>Contact Us</a>
+<a href=mailto:parsesphereinnovations@gmail.com>Contact Us</a>
