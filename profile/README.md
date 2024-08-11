@@ -36,7 +36,7 @@ Our vision is to emerge as a leader in the cloud technology space, offering unpa
 ### Dedicated Support
 - **Continuous Assistance:** Our team is always available to provide the support needed to ensure seamless operations.
 
-### Sponsorship Opportunities
+## Sponsorship Opportunities
 At ParseSphere Innovations, we believe in the power of community and collaboration. We invite businesses and organizations to partner with us through sponsorship opportunities. Whether you're looking to support our mission of social upliftment or align your brand with cutting-edge technology solutions, sponsoring ParseSphere Innovations is a chance to make a meaningful impact.
 
 <h3>Why Sponsor Us?</h3>
